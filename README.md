@@ -1,6 +1,18 @@
 # DLNN-Week-01
 Introduction to Artificial Intelligence, Python Programming Basics and Essential Python Module
 
+Video Links
+
+1. [Nvidia Deep Learning](https://www.youtube.com/watch?v=Dy0hJWltsyE) 
+2. [Nvidia Self Driving Car](https://www.youtube.com/watch?v=fmVWLr0X1Sk) 
+3. [MIT Black Betty](https://www.youtube.com/watch?v=fCLI6kxFFTE)
+4. [AlphaGO Documentary](https://www.youtube.com/watch?v=jGyCsVhtW0M)
+
+You can use Jupyter notebook in Anaconda Navigator to Implement Neural Networks in your PC (We will use this from next week onwards)
+
+[Download Anaconda](https://www.anaconda.com/distribution/)
+
+
 In week 01 we discussed about essential Python Programming and essential contributed modules, Numpy, Matplotlib and OpenCV that we are going to use throughout our course.
 
 ### Python Essentials
